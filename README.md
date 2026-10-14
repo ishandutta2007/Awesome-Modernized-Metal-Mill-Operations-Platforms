@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Modernized-Metal-Mill-Operations-Platforms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Modernized-Metal-Mill-Operations-Platforms?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Modernized-Metal-Mill-Operations-Platforms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Modernized-Metal-Mill-Operations-Platforms?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Modernized-Metal-Mill-Operations-Platforms/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Modernized-Metal-Mill-Operations-Platforms?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Modernized-Metal-Mill-Operations-Platforms/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -76,7 +76,7 @@ The sector exhibits **moderate concentration among Tier-1 legacy engineering con
 
 *Open-source platforms, protocols, databases, and digital twins sorted in descending order of GitHub stargazers.*
 
-| 📦 Repository & Project | ⭐ GitHub Stars Badge | 🛠️ Technology Stack | 💡 Metal Mill Operations Application |
+| 📦 Repository & Project | ⭐ GitHub_Stars_Badge | 🛠️ Technology Stack | 💡 Metal Mill Operations Application |
 | :--- | :--- | :--- | :--- |
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Go, TypeScript, React | Real-time mill-wide telemetry dashboards displaying roll stand motor temperatures, hydraulic pressures, furnace thermocouple heat maps, and coil surface speeds. |
 | **[Odoo Manufacturing](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | Modular ERP & MRP suite with work-center routing, maintenance schedules, multi-level bills of materials (BOM), and shop-floor quality inspection checkpoints. |
@@ -139,7 +139,7 @@ We welcome contributions from metallurgists, automation engineers, and industria
 
 1. 🍴 **Fork the repository** to your personal GitHub account.
 2. 🌿 **Create a topic branch**: `git checkout -b feature/add-new-platform`.
-3. 📝 **Add or update an entry**: Ensure entries adhere to the table structure, including verified pricing tiers, company size/valuation, and accurate GitHub star badges.
+3. 📝 **Add or update an entry**: Ensure entries adhere to the table structure, including verified pricing tiers, company size/valuation, and accurate GitHub Stars_Badges.
 4. ✅ **Ensure accuracy**: Descriptions must be factual, non-promotional, and cite authoritative documentation or academic grant papers.
 5. 🚀 **Submit a Pull Request** with a concise summary of the addition or revision.
 
