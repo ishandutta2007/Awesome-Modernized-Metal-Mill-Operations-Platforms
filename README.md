@@ -1,6 +1,6 @@
 # Awesome-Modernized-Metal-Mill-Operations-Platforms
 
-# Top Modernized Metal Mill Operations Platforms Ecosystem
+## Top Modernized Metal Mill Operations Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Metallurgical Process Optimization, Quality Execution & Plant-Scale AI Monitoring*  
